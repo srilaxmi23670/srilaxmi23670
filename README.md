@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srilaxmi23670
 - 👀 I’m interested in programming
-- 🌱 I’m currently pursuing 3rd year in Electronics and communication Engineering
+- 🌱 I’m currently pursuing 4th year in Electronics and communication Engineering
 - 💞️ I’m looking to collaborate on some major project involving machine learning and Artificial Intelligence
 - 📫 Reach me at sunnynancharla@gmail.com
 
