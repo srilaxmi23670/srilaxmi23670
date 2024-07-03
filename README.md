@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srilaxmi23670
+- 👋 Hi, I’m @srilaxmi
 - 🌱 I’m a software engineer
 - 💞️ I’m looking to collaborate on some open source projects.
 - 📫 Reach me at nancharlasrilaxmi2000@gmail.com
